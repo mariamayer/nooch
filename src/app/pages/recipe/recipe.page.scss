@@ -1,0 +1,23 @@
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+}
+
+ion-title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 60px;
+    background: linear-gradient(0deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%);
+    font-weight: 600;
+    font-size: 26px;
+}
+
+ion-back-button {
+    position: absolute;
+}
+
+.recipe-image {
+    max-height: 50vh;
+    overflow: hidden;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nooch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6176410c"
+}

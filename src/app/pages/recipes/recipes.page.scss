@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Roboto&display=swap');
+
+.card {
+    margin:0;
+    .card-image {
+        width: 100%;
+    }
+    .card-body {
+        padding: 10px
+    }
+    .card-title {
+        margin: 0;
+    }
+    .card-subtitle {
+        margin-top: 10px;
+        font-size: 12px;
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+    .img-container {
+        max-height: 200px;
+        overflow: hidden;
+        border-radius: 10px;
+    }
+}
